@@ -1,2 +1,1 @@
-# TIL
-Today I Learned: a collection of random notes
+Check [the Issues section](https://github.com/seungjaeryanlee/TIL/issues) for TIL entries.
